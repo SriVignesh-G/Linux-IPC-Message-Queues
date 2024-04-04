@@ -84,7 +84,9 @@ return 0;
 ```
 
 ## OUTPUT
-![output image](https://github.com/SriVignesh-G/Linux-IPC-Message-Queues/assets/147576510/ead93a78-e554-47eb-80b7-b73c50b5615a)
+
+![image](https://github.com/SriVignesh-G/Linux-IPC-Message-Queues/assets/147576510/c4484559-a144-4312-b086-3a1ae1f17847)
+
 
 
 # RESULT:
